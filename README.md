@@ -6,7 +6,7 @@
 *  [Chu-Ya Hsu](https://github.com/410302007) 
 *  [dackdada016](https://github.com/dackdada016) 
 *  [Jin22221](https://github.com/Jin22221) 
-*  [4A555076](https://github.com/4A) 
+*  [4A555076](https://github.com/4A555076) 
 *  [Eric Tsai](https://github.com/hiphop200199) 
 *  [zackliuzicheng](https://github.com/zackliuzicheng) 
 
